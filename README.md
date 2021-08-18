@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @gsizer
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Defensive and Offensive Cyber Security
-- 📫 You can reach me through <a href="https://www.linkedin.com/in/gregory-sizer">LinkedIn</a>
+# About GSIZER
+
+I am continually learning Information Security via Offensive and Defensive labs and reading materials, with special interest in Forensic Analysys.
+
+You can reach me on [LinkedIn](https://linkedin.com/in/Gregory-Sizer "My LinkedIn Profile").
