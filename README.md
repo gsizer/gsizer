@@ -5,5 +5,4 @@
   - [WT32-SC01 Functionality](https://github.com/gsizer/WT32-SC01-Template)
   - [ESP32 Motion Controlled Lighting](https://github.com/gsizer/ESP32-Motion-Pixel)
   - [Godot Configuration](https://github.com/gsizer/GodotConfig)
-  - [Python Game](https://github.com/gsizer/pyGameTemplate)
 - 📫 How to reach me: @gmail
