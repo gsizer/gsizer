@@ -2,4 +2,4 @@
 - 👀 I’m interested in Woodworking, Embeded Hardware, Game Design
 - 🌱 I’m currently learning everyday.
 - 📫 How to reach me: @gmail
-- Whenever I push an update to anything, is when I have time and care about computers again.
+- 🔌 Unplugged.
