@@ -1,5 +1,5 @@
 - 👋 Hi, I’m gsizer
-- 👀 I’m interested in Woodworking, Embeded Hardware, Game Design
+- 👀 I’m interested in Linux, Embeded Hardware, Game Design
 - 🌱 I’m currently learning everyday.
 - 📫 How to reach me: @gmail
 - 🔌 Unplugged.
